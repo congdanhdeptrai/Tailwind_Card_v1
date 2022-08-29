@@ -2,4 +2,4 @@
 
 Template Card Design using Tailwind CSS, Vanilla JS.
 
-Demo : *Update soon...*
+Demo : [Here](https://kurominakamoto.github.io/Tailwind_Card_v1/)
