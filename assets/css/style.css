@@ -48,3 +48,15 @@ body {
 ._kuromi_op.active-2 {
     opacity: 1;
 }
+
+._div_fix {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+._div_fix_2 {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
